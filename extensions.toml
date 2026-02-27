@@ -742,6 +742,10 @@ version = "1.2.3"
 submodule = "extensions/cspell"
 version = "0.0.6"
 
+[css-class-autocomplete]
+submodule = "extensions/css-class-autocomplete"
+version = "0.1.0"
+
 [css-modules-kit]
 submodule = "extensions/css-modules-kit"
 version = "0.1.1"

@@ -4277,3 +4277,6 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
+[submodule "extensions/css-class-autocomplete"]
+	path = extensions/css-class-autocomplete
+	url = https://github.com/c-eugenio/css-autocomplete-zed
